@@ -42,7 +42,7 @@
    "provides" : {
       "App::GitHooks::Plugin::PreventTrailingWhitespace" : {
          "file" : "lib/App/GitHooks/Plugin/PreventTrailingWhitespace.pm",
-         "version" : "v1.0.0"
+         "version" : "v1.0.1"
       }
    },
    "release_status" : "stable",
@@ -58,5 +58,5 @@
          "url" : "https://github.com/barwin/App-GitHooks-Plugin-PreventTrailingWhitespace"
       }
    },
-   "version" : "v1.0.0"
+   "version" : "v1.0.1"
 }
